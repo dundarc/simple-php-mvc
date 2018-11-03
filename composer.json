@@ -1,0 +1,8 @@
+{
+    "require": {
+        "illuminate/database": "^5.7"
+    },
+    "classmap": [
+      "app/models"
+    ]
+}
